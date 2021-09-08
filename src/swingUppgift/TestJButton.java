@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 public class TestJButton {
 	public static void main(String[] args) {
 		JFrame frame = new JFrame();
-		ImageIcon img = new ImageIcon("C:\\Users\\kowal\\Downloads\\icons8-puzzle-48.png");
+		ImageIcon img = new ImageIcon("icons8-puzzle-48.png");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(800, 400);
 		frame.setTitle("Test Button");
